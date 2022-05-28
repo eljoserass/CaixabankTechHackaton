@@ -1,7 +1,8 @@
 # CaixabankTechHackaton
 Submissions for data sicence project.
 
-# TO DO
+----
 
-- clean code
-- check what happends if 
+Implementation of forecasting model on the IBEX35 dataset.
+
+Used a random forest with moving means for diferent periods
